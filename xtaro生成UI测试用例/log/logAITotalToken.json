@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-05-02T12:08:51.786Z",
+  "total_usage": {
+    "prompt_tokens": 72,
+    "completion_tokens": 3092,
+    "total_tokens": 3164,
+    "requests": 2
+  },
+  "current_usage": {
+    "completion_tokens": 1488,
+    "prompt_tokens": 36,
+    "total_tokens": 1524,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 405
+    }
+  }
+}

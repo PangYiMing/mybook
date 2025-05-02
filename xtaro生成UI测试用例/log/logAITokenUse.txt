@@ -1,0 +1,2 @@
+{"timestamp":"2025-05-02T12:06:56.593Z","prompt_tokens":36,"completion_tokens":1604,"total_tokens":1640,"model":"doubao-1-5-thinking-pro-250415"}
+{"timestamp":"2025-05-02T12:08:51.786Z","prompt_tokens":36,"completion_tokens":1488,"total_tokens":1524,"model":"doubao-1-5-thinking-pro-250415"}

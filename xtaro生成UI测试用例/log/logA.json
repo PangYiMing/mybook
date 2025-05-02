@@ -1,0 +1,7 @@
+{
+  "total_prompt_tokens": 36,
+  "total_completion_tokens": 1608,
+  "total_tokens": 1644,
+  "model": "doubao-1-5-thinking-pro-250415",
+  "requests": 1
+}
